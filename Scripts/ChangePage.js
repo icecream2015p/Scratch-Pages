@@ -1,3 +1,3 @@
 function main(url){
-    open(url);
+    location = url;
 }
